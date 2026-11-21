@@ -1,0 +1,4 @@
+# app-ads.txt for apps by Diniworks (Beedoku: Buzzy Logic, com.diniworks.beedoku).
+# Replace the line below with the exact line AdMob shows under Apps > View all apps > app-ads.txt,
+# then remove the "#" in front of it.
+# google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
